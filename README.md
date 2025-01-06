@@ -1,2 +1,3 @@
 # Elevator-Control-System-Using-System-Verilog
-![Wave](https://github.com/user-attachments/assets/bbbac059-d56e-448b-8bbc-60c920ce8735)
+
+![image](https://github.com/user-attachments/assets/4822cb42-c669-437d-9897-edc991c4d4d5)
